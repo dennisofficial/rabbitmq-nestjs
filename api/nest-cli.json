@@ -36,69 +36,6 @@
       "compilerOptions": {
         "tsConfigPath": "libs/shared/tsconfig.lib.json"
       }
-    },
-    "scheduler": {
-      "type": "application",
-      "root": "apps/scheduler",
-      "entryFile": "main",
-      "sourceRoot": "apps/scheduler/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/scheduler/tsconfig.app.json"
-      }
-    },
-    "email": {
-      "type": "application",
-      "root": "apps/email",
-      "entryFile": "main",
-      "sourceRoot": "apps/email/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/email/tsconfig.app.json"
-      }
-    },
-    "mailbox": {
-      "type": "application",
-      "root": "apps/mailbox",
-      "entryFile": "main",
-      "sourceRoot": "apps/mailbox/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/mailbox/tsconfig.app.json"
-      }
-    },
-    "centrifugo": {
-      "type": "application",
-      "root": "apps/centrifugo",
-      "entryFile": "main",
-      "sourceRoot": "apps/centrifugo/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/centrifugo/tsconfig.app.json"
-      }
-    },
-    "users": {
-      "type": "application",
-      "root": "apps/users",
-      "entryFile": "main",
-      "sourceRoot": "apps/users/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/users/tsconfig.app.json"
-      }
-    },
-    "roles": {
-      "type": "application",
-      "root": "apps/roles",
-      "entryFile": "main",
-      "sourceRoot": "apps/roles/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/roles/tsconfig.app.json"
-      }
-    },
-    "organizations": {
-      "type": "application",
-      "root": "apps/organizations",
-      "entryFile": "main",
-      "sourceRoot": "apps/organizations/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/organizations/tsconfig.app.json"
-      }
     }
   }
 }
